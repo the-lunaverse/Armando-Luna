@@ -8,9 +8,10 @@ Data Science Portfolio
 * Utilized Leaflet for geospatial data visualization to create a compelling data-driven story.
 
 ## Survey Responses of All 6 Survey Campaigns 
-![](images/phillipines.png)
+![](images/survey_analysis.png)
+
 
 
 ## Geospatial Visualization Using Leaflet
-![](images/survey analysis.png)
+![](images/phillipines.png)
 
