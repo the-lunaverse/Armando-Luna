@@ -24,7 +24,7 @@ Data Science Portfolio
 
 * Examined the sentiments behind social media Tweets during the height of the Pandemic.
 * Scraped approximately 2,000 tweets using the PAI Twitter API. 
-* Transformed unstructured data tweets into structured data using excel. 
+* Transformed unstructured data tweets into structured data using R and Excel. 
 * Applied Natural Language Processing Techniques (NLP) & unsupervised machine learning techniques, specifically t-SNE (t-distributed stochastic neighbor embedding) and CLARA (Clustering Large Applications) algorithms, to group similar words and analyze tweet content.
 
 ## Sentiment Scores of Tweets in May, June, & July 2021 
