@@ -16,3 +16,21 @@ Data Science Portfolio
 ## Geospatial Visualization Using Leaflet
 ![](images/phillipines.png)
 
+
+
+
+
+# [Project 2:  Sentiments in Hawaii During The Covid-19 Pandemic](https://github.com/the-lunaverse/NLP/blob/main/NLP_Twitter_Analysis.R) 
+
+* Examined the sentiments behind social media Tweets during the height of the Pandemic.
+* Scraped approximately 2,000 tweets using the PAI Twitter API. 
+* Transformed unstructured data tweets into structured data using excel. 
+* Applied Natural Language Processing Techniques (NLP) & unsupervised machine learning techniques, specifically t-SNE (t-distributed stochastic neighbor embedding) and CLARA (Clustering Large Applications) algorithms, to group similar words and analyze tweet content.
+
+## Sentiment Scores of Tweets in May, June, & July 2021 
+![](images/sentiments.png)
+
+## t-SNE and Clara Cluster Analysis
+
+![](images/clara_clusters.png)
+
