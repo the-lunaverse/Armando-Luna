@@ -1,4 +1,4 @@
-# Armando_Portfilo
+# Armando - Luna
 Data Science Portfolio
 
 # [Project 1: Perception Of China In The Phillipines](https://github.com/the-lunaverse/Survey_Analysis/blob/main/Perception%20of%20China.Rmd) 
