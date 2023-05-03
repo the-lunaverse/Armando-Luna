@@ -17,10 +17,24 @@ Data Science Portfolio
 ![](images/phillipines.png)
 
 
+## [Project 2: Exploring The Peoples Bank of China Rescue Loans to Forgein Nations (EDA)](https://github.com/the-lunaverse/PBOC-Rescue-Loans-Analysis) 
+
+* Conducted in-depth analysis of People's Bank of China (PBOC) Rescue Loans dataset, extracting valuable insights into China's financial influence on low- and middle-income countries.
+* Skillfully utilized Python, pandas, and Plotly to perform exploratory data analysis, data visualization, and to create choropleth maps and bar charts for better data comprehension.
+* Identified top recipient countries and organizations of Chinese rescue loans, highlighting potential areas of financial influence and future policy implications.
+* Presented a comprehensive summary of findings, effectively communicating data-driven insights and showcasing proficiency in both data analysis and visualization techniques.
+
+## Countries That Received "Rescue Loans" From China (1998-2022) 
+![](images/cholorpeth_map.png)
+
+## Organizations That Received "Rescue Loans" From China (1998-2022)
+
+
+![](images/received_loan_bachart.png)
 
 
 
-# [Project 2:  Sentiments in Hawaii During The Covid-19 Pandemic](https://github.com/the-lunaverse/NLP/blob/main/NLP_Twitter_Analysis.R) 
+# [Project 3:  Sentiments in Hawaii During The Covid-19 Pandemic](https://github.com/the-lunaverse/NLP/blob/main/NLP_Twitter_Analysis.R) 
 
 * Examined the sentiments behind social media Tweets during the height of the Pandemic.
 * Scraped approximately 2,000 tweets using the PAI Twitter API. 
