@@ -17,7 +17,7 @@ Data Science Portfolio
 ![](images/phillipines.png)
 
 
-# [Project 2: Exploring The Peoples Bank of China Rescue Loans to Foreign Nations (EDA)](https://github.com/the-lunaverse/PBOC-Rescue-Loans-Analysis) 
+# [Project 2: Exploring The Peoples Bank of China Rescue Loans to Foreign Nations (EDA)](https://github.com/the-lunaverse/PBOC-Rescue-Loans-Analysis/blob/main/Exploring%20PBOC%20Rescue%20Loans.ipynb) 
 
 * Conducted in-depth analysis of People's Bank of China (PBOC) Rescue Loans dataset, extracting valuable insights into China's financial influence on low- and middle-income countries.
 * Skillfully utilized Python, pandas, and Plotly to perform exploratory data analysis, data visualization, and to create choropleth maps and bar charts for better data comprehension.
