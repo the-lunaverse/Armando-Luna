@@ -17,7 +17,7 @@ Data Science Portfolio
 ![](images/phillipines.png)
 
 
-## [Project 2: Exploring The Peoples Bank of China Rescue Loans to Forgein Nations (EDA)](https://github.com/the-lunaverse/PBOC-Rescue-Loans-Analysis) 
+# [Project 2: Exploring The Peoples Bank of China Rescue Loans to Forgein Nations (EDA)](https://github.com/the-lunaverse/PBOC-Rescue-Loans-Analysis) 
 
 * Conducted in-depth analysis of People's Bank of China (PBOC) Rescue Loans dataset, extracting valuable insights into China's financial influence on low- and middle-income countries.
 * Skillfully utilized Python, pandas, and Plotly to perform exploratory data analysis, data visualization, and to create choropleth maps and bar charts for better data comprehension.
@@ -47,4 +47,20 @@ Data Science Portfolio
 ## t-SNE and Clara Cluster Analysis
 
 ![](images/clara_clusters.png)
+
+# [Project 4:  A|B Testing Consumer Complaints](https://github.com/the-lunaverse/A-B-Testing/blob/main/A%7CB%20Testing%20on%20Consumer%20Complaints.ipynb) 
+
+* Performed a T-test to analyze the differences in the number of complaints submitted via web and phone and ANOVA Test to compare each State.
+* Calculated mean indices and standard deviations, then conducted the T-test using Python's scipy library.
+* Found a statistically significant difference between web and phone complaint submissions, and  significant differences in submission methods across states.
+* Enhance insights into consumer complaint patterns, enabling more targeted and effective responses to address consumer concerns and tailorsresponse strategies based on regional preferences.
+
+
+## T-Test of Web Vs Phone Submitted Complaints
+
+![](images/ttest.png)
+
+
+
+
 
