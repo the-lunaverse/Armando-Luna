@@ -1,10 +1,10 @@
 # Armando - Luna
 Data Science Portfolio
 
-# [Project 1: Perception Of China In The Phillipines](https://github.com/the-lunaverse/Survey_Analysis/blob/main/Perception%20of%20China.Rmd) 
+# [Project 1: Perception Of China In The Philipines](https://github.com/the-lunaverse/Survey_Analysis/blob/main/Perception%20of%20China.Rmd) 
 
-* Conducted Ad-Hoc Analysis of survey data in the Phillipines to build insight of the social climate towards China.
-* Investigated over 1,500 particpants survey responses using R and plotly. 
+* Conducted Ad-Hoc Analysis of survey data in the Philippines to build insight of the social climate towards China.
+* Investigated over 1,500 participants survey responses using R and plotly. 
 * Transformed categorical data into numerical data to measure and quantify the responses. 
 * Utilized Leaflet for geospatial data visualization to create a compelling data-driven story.
 
@@ -17,7 +17,7 @@ Data Science Portfolio
 ![](images/phillipines.png)
 
 
-# [Project 2: Exploring The Peoples Bank of China Rescue Loans to Forgein Nations (EDA)](https://github.com/the-lunaverse/PBOC-Rescue-Loans-Analysis) 
+# [Project 2: Exploring The Peoples Bank of China Rescue Loans to Foreign Nations (EDA)](https://github.com/the-lunaverse/PBOC-Rescue-Loans-Analysis) 
 
 * Conducted in-depth analysis of People's Bank of China (PBOC) Rescue Loans dataset, extracting valuable insights into China's financial influence on low- and middle-income countries.
 * Skillfully utilized Python, pandas, and Plotly to perform exploratory data analysis, data visualization, and to create choropleth maps and bar charts for better data comprehension.
@@ -75,13 +75,14 @@ Data Science Portfolio
 
 * Performed a T-test to analyze the differences in the number of complaints submitted via web and phone and ANOVA Test to compare each State.
 * Calculated mean indices and standard deviations, then conducted the T-test using Python's scipy library.
-* Found a statistically significant difference between web and phone complaint submissions, and  significant differences in submission methods across states.
-* Enhance insights into consumer complaint patterns, enabling more targeted and effective responses to address consumer concerns and tailors response strategies based on regional preferences.
+* Found a statistically significant difference between web and phone complaint submissions, and significant differences in submission methods across states.
+* Enhance insights into consumer complaint patterns, enabling more targeted and effective responses to address consumer concerns and tailors’ response strategies based on regional preferences.
 
 
 ## T-Test of Web Vs Phone Submitted Complaints
 
 ![](images/ttest.png)
+![image](https://user-images.githubusercontent.com/46611603/236126771-cfdb4d33-cf40-426a-abd6-94bdc6f6c797.png)
 
 
 
