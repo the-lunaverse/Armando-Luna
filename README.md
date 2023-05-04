@@ -53,7 +53,7 @@ Data Science Portfolio
 * Performed a T-test to analyze the differences in the number of complaints submitted via web and phone and ANOVA Test to compare each State.
 * Calculated mean indices and standard deviations, then conducted the T-test using Python's scipy library.
 * Found a statistically significant difference between web and phone complaint submissions, and  significant differences in submission methods across states.
-* Enhance insights into consumer complaint patterns, enabling more targeted and effective responses to address consumer concerns and tailorsresponse strategies based on regional preferences.
+* Enhance insights into consumer complaint patterns, enabling more targeted and effective responses to address consumer concerns and tailors response strategies based on regional preferences.
 
 
 ## T-Test of Web Vs Phone Submitted Complaints
