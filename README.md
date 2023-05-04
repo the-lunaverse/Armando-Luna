@@ -1,6 +1,3 @@
----
----
-
 Data Science Portfolio 
 
 [LinkedIn](https://www.linkedin.com/in/luna-armando/) | [Tableau](https://public.tableau.com/app/profile/armando.luna)
@@ -14,7 +11,6 @@ Data Science Portfolio
 
 ## Survey Responses of All 6 Survey Campaigns 
 ![](images/survey_analysis.png)
-
 
 
 ## Geospatial Visualization Using Leaflet
@@ -35,7 +31,6 @@ Data Science Portfolio
 
 
 ![](images/received_loan_bachart.png)
-
 
 
 # [Project 3:  Sentiments in Hawaii During The Covid-19 Pandemic](https://github.com/the-lunaverse/NLP/blob/main/NLP_Twitter_Analysis.R) 
@@ -70,9 +65,6 @@ Data Science Portfolio
 
 ## Prediction Interactions of Zeta Potential & Exposure Dose
 ![](images/Prediction_Interactions.png)
-
-
-
 
 
 # [Project 5:  A|B Testing Consumer Complaints](https://github.com/the-lunaverse/A-B-Testing/blob/main/A%7CB%20Testing%20on%20Consumer%20Complaints.ipynb) 
