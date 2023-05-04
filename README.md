@@ -1,5 +1,6 @@
-# Armando - Luna
-Data Science Portfolio
+Data Science Portfolio 
+
+[LinkedIn](https://www.linkedin.com/in/luna-armando/) | [Tableau](https://public.tableau.com/app/profile/armando.luna)
 
 # [Project 1: Perception Of China In The Philipines](https://github.com/the-lunaverse/Survey_Analysis/blob/main/Perception%20of%20China.Rmd) 
 
@@ -83,8 +84,3 @@ Data Science Portfolio
 
 ![](images/ttest.png)
 ![image](https://user-images.githubusercontent.com/46611603/236126771-cfdb4d33-cf40-426a-abd6-94bdc6f6c797.png)
-
-
-
-
-
